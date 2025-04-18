@@ -1,3 +1,11 @@
+# Pandas 🐼
+
+This repository contains a collection of datasets in raw and cleaned formats to demonstrate data cleaning techniques using **pandas** in Python.
+
+## 📂 Repository Structure
+
+- `/raw_data/` – Contains data files with formatting issues, missing values, inconsistent column names, and other common data problems.  
+- `/clean_data/` – Contains cleaned versions of the raw data files, processed using pandas to ensure consistency and usability.
 
 ## 🛠 Purpose
 
@@ -10,7 +18,3 @@ The goal of this project is to practice and showcase data cleaning skills using 
 - Fixing data types  
 - Removing duplicates  
 - General data wrangling using `pandas`
-
----
-
-Feel free to explore the files and use them as examples for learning or practicing data cleaning workflows.
